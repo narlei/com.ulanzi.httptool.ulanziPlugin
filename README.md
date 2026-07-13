@@ -1,3 +1,5 @@
+[![Available on Ulanzi Community Store](https://raw.githubusercontent.com/narlei/ulanzicommunitystore/main/docs/badges/ulanzi-community-store.svg)](https://ulanzicommunitystore.narlei.com)
+
 <H1>背景：</H1>
 这是一个javascript插件项目，项目包括插件UI和插件后台2部分。插件运行于桌面应用下，
 （桌面应用相当于一个应用市场，可以添加、配置、运行插件。），插件UI已网页形式在
