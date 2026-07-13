@@ -4,7 +4,7 @@
   "Author": "Ulanzi",
   "Description": "Httptool is a tool to perform http request and match the specified field in the response.",
   "PrivateAPI": true,
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Category": "Ulanzi Deck",
   "CategoryIcon": "resources/images/categoryIcon",
   "CodePath": "httptool.html",
